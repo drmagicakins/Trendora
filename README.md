@@ -1,6 +1,6 @@
 # Trendora
 Full-Stack Fashion E-Commerce Web Application with Social Community Features
-<hr>
+
 PROJECT WORK DOCUMENT (PWD)
 
  Project Title: Fashionista - Full-Stack Fashion E-Commerce Web Application with Social Community Features
